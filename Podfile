@@ -8,5 +8,7 @@ target 'vk_server' do
   # Pods for vk_server
   
   pod 'AlamofireImage'
-
+  pod 'RealmSwift'
+  
+ 
 end
