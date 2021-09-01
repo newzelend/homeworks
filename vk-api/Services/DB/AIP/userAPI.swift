@@ -1,5 +1,5 @@
 //
-//  FriendAPI.swift
+//  userAPI.swift
 //  vk_server
 //
 //  Created by Grisha Pospelov on 19.08.2021.
@@ -11,7 +11,7 @@ struct Users {
 
 }
 
-final class FriendAPI {
+final class userAPI {
 
     
     let baseUrl = "https://api.vk.com/method"

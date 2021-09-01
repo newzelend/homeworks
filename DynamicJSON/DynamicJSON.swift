@@ -1,11 +1,10 @@
 //
-//  DynamicJSON.swift
+//  Data+PrettyJSON.swift
 //  vk_server
 //
 //  Created by Grisha Pospelov on 23.08.2021.
 //
 
-import Foundation
 import Foundation
 
 @dynamicMemberLookup
