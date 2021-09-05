@@ -87,8 +87,6 @@
 			isa = PBXGroup;
 			children = (
 				62471C8526D3CF81004A3C4A /* users */,
-				62471C8126D3CF05004A3C4A /* User_ViewController.swift */,
-				62471C9026D3D1D4004A3C4A /* custom.swift */,
 				62471C8726D3CF9F004A3C4A /* photos */,
 				62471C8B26D3CFE9004A3C4A /* Groups */,
 			);
@@ -98,6 +96,8 @@
 		62471C8526D3CF81004A3C4A /* users */ = {
 			isa = PBXGroup;
 			children = (
+				62471C8126D3CF05004A3C4A /* User_ViewController.swift */,
+				62471C9026D3D1D4004A3C4A /* custom.swift */,
 			);
 			path = users;
 			sourceTree = "<group>";
