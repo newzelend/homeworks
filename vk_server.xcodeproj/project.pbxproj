@@ -14,6 +14,7 @@
 		62471C9126D3D1D4004A3C4A /* custom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62471C9026D3D1D4004A3C4A /* custom.swift */; };
 		62471C9326D3DAED004A3C4A /* Group_TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62471C9226D3DAED004A3C4A /* Group_TableViewCell.swift */; };
 		62471C9626D3DDD9004A3C4A /* DynamicJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62471C9526D3DDD9004A3C4A /* DynamicJSON.swift */; };
+		625085C326E796A500DA5C6D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 625085C226E796A500DA5C6D /* GoogleService-Info.plist */; };
 		6267F81526CF9C5A0051B198 /* PhotoAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6267F81426CF9C5A0051B198 /* PhotoAPI.swift */; };
 		6267F81726CF9CCF0051B198 /* GroupAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6267F81626CF9CCF0051B198 /* GroupAPI.swift */; };
 		6267F81926CF9CFA0051B198 /* SearchGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6267F81826CF9CFA0051B198 /* SearchGroup.swift */; };
@@ -41,6 +42,7 @@
 		62471C9026D3D1D4004A3C4A /* custom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = custom.swift; sourceTree = "<group>"; };
 		62471C9226D3DAED004A3C4A /* Group_TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group_TableViewCell.swift; sourceTree = "<group>"; };
 		62471C9526D3DDD9004A3C4A /* DynamicJSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicJSON.swift; sourceTree = "<group>"; };
+		625085C226E796A500DA5C6D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		6267F81426CF9C5A0051B198 /* PhotoAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoAPI.swift; sourceTree = "<group>"; };
 		6267F81626CF9CCF0051B198 /* GroupAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupAPI.swift; sourceTree = "<group>"; };
 		6267F81826CF9CFA0051B198 /* SearchGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchGroup.swift; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 		6267F81A26CF9F240051B198 /* storyboard */ = {
 			isa = PBXGroup;
 			children = (
+				625085C226E796A500DA5C6D /* GoogleService-Info.plist */,
 				62B730E226CE7FF300E66C12 /* Main.storyboard */,
 				62B730E726CE7FF400E66C12 /* LaunchScreen.storyboard */,
 			);
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				62B730E926CE7FF400E66C12 /* LaunchScreen.storyboard in Resources */,
+				625085C326E796A500DA5C6D /* GoogleService-Info.plist in Resources */,
 				62B730E626CE7FF400E66C12 /* Assets.xcassets in Resources */,
 				62B730E426CE7FF300E66C12 /* Main.storyboard in Resources */,
 			);
