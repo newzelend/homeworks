@@ -8,5 +8,8 @@ target 'vk_server' do
   # Pods for vk_server
   
   pod 'AlamofireImage'
-
+  pod 'Firebase/Database'
+  pod 'Firebase/Auth'
+  pod 'RealmSwift'
+  
 end

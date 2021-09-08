@@ -7,7 +7,7 @@
 
 import UIKit
 import Alamofire
-import AlamofireImage
+import RealmSwift
 
 
 class User_ViewController: UIViewController {
